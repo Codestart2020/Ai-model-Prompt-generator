@@ -21,4 +21,4 @@ speech_recognition: For speech-to-text conversion.
 
 pyttsx3: For text-to-speech conversion.
 
-gradio: For building interactive interfaces (optional).
+
